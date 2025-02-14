@@ -1,6 +1,6 @@
 # ZX Spectrum Assembler
 
-![Title image](title_image.png){: height=250px}
+![Title image](title_image.png)
 
 ## Как ориентироваться в машинном языке
 
